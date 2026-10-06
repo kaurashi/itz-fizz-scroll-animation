@@ -41,7 +41,7 @@ The hero section includes:
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/kaurashi/itz-fizz-scroll-animation.git
 ```
 
 Navigate to the project:
